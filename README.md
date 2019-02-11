@@ -3,14 +3,19 @@
 Files in this repository
 
 -README.md: it is a summary of all the other files
+
 -CodeBook.md: describes the contents of the data set (data, variables and transformations used to generate the data)
+
 -run_analysis.R: the R script that was used to create the data set. All the transformations are inside
+
 -output.txt: final result of the practise
 
 sessionInfo()
 
 R version 3.5.2 (2018-12-20)
+
 Platform: x86_64-apple-darwin15.6.0 (64-bit)
+
 Running under: macOS High Sierra 10.13.6
 
 Matrix products: default
